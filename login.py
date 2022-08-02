@@ -11,4 +11,4 @@ num5 = 600 #经理
 
 num6 = 600
 
-over
+print("hello world")

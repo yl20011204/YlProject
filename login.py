@@ -10,5 +10,5 @@ num5 = 600 #经理
 
 
 num6 = 600
-
+num7 = 10000000
 print("hello world")
